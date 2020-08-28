@@ -7,42 +7,33 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Micael Santos
+    tagline: Customer Service Coordinator
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-
-    languages:
-      - idiom: English
+    email: micaeldossantos86@gmail.com
+    phone: +351 916100290
+    linkedin: Micael Santos
+    github: MicaelSantos86
+     languages:
+      - idiom: French / Portuguese
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: Advanced user
 
       - idiom: Spanish
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Sports
         link:
 
-      - item: Snowboarding
+      - item: Movies
         link:
 
-      - item: Cooking
+      - item: Music
         link:
 
 career-profile:
@@ -55,136 +46,87 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master in Specialized Translation
+      university: University of Aveiro
+      time: 2008 - 2009
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        The use of translation support technology
+     
+    - degree: Languages and Specialized Translation
+      university: University of Aveiro
+      time: 2004 - 2008
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Scientific field
+        
 experiences:
-    - role: Lead Developer
+    - role: Customer Service Coordinator
       time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      company: The Navigator Company (pulp and paper industry), Figueira da Foz (Portugal)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        As a coordinator, I am responsible for managing my team (holidays, yearly evaluation,
+        personal growth, etc. etc.), organize work load and tasks , implement procedures and
+        improvement opportun ities, develop and maintain the service level and produce several
+        reports (monthly customer service, wee kly report, late orders, OTIF). I am also responsible
+        for the definition and implementation of the team’s objectives and KPIs. In addition, I am
+        the bridge between the different departments (CS As, Sales Office and the mill).
+        Furthermore, I am res ponsible for the training of new members and take part in the
+        training of new recruitments of other areas (sales manager, tissue team, etc). Also , I take
+        part in meeting s with customers and s uppliers , in order to develop commercial relations
+        and find new solutions .
+        In January 2018, I became the coordinator of the Ital ian market, in addit ion to being the
+        coordinator of French market.
+    - role: Customer Service Assistant
+      time: 2010- 2015
+      company: The Navigator Company (pulp and paper industry), Figueira da Foz (Portugal)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        A Customer Service Assistant is responsible for the order following after sale (order
+        reception and keying, production and delivery follow up). One of the pillars of the function
+        is communication with the customer. It is essential to cle arly a nd efficiently inform the
+        customer of any delays, deliveries and any other important situations. These
+        communication skills allow ed me to develop a fruitful relationship with the customer. As a
+        CSA I also need ed to be able to communicate with our logistic suppliers (shipping
+        agencies, logistic platforms or carriers) and other departments. A lso , I ha d to plan
+        deliveries by road or sea, prepare shipping documentatio n (sea deliveries) and organize
+        the daily loading plan.
+        
+    - role: Administrative Assistant
+      time: 2008 - 2010
+      company: Iberian Coppers, S.A., Valença do Minho (Portugal)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        As an administrative assistant, I was responsible for the order following
+        (order reception,
+        shipment and billing). During my tenure at Iberian Coppers, I had to translate the
+        catalogue and the web page. Furthermore, I worked with the marketing department to
+        develop the company’s online presence (buzz marketing, social networks,
+        While at the Company, I org anized our first participati on at an international fair, in
+        Germany. At the fair, we were able to show our products, make contacts and make sever al
+        sales. After this successful experience, the company started to participle in different fair
+        both nationally and internationally. Finally, during my time at the Company, I spent some
+        time at the store wor king on direct sales, which allowed me to develop my
+        communication skills with the customer.
+        Communication with customer was held in French, English, Portuguese and Spanish.
 projects:
-    title: Projects
+    title: Developing and implementing a system to evaluate and grade road carriers.
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      Creation of a grading system for carriers, based on performance and customer/user feedback
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: O Sal de Aveiro – Glossário das alfaias utilizadas na produção de sal
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      Creating a glossary on salt, using translation support technologies
+   
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: 
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: 
         level: 98%
 
-      - name: Angular
+      - name: 
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
