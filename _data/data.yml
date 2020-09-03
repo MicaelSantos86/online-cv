@@ -39,11 +39,10 @@ sidebar:
 
 
     
-    summary: |
-      My professional experience allowed me to develop crucial skills and contact with different areas, such as customer care, logistics and project / team management.
+    summary: My professional experience allowed me to develop crucial skills and contact with different areas, such as customer care, logistics and project / team management.
       I am very objective driven and consider team work essential
-      
-      
+
+            
 education:
     - degree: Master in Specialized Translation
       university: University of Aveiro
@@ -106,14 +105,13 @@ experiences:
         Communication with customer was held in French, English, Portuguese and Spanish.
 projects:
     title: Projects
-    intro: Developing and implementing a system to evaluate and grade road carriers.
-      Creation of a grading system for carriers, based on performance and customer/user feedback
+    intro: Development and implementation of a system to evaluate and grade road carriers, based on performance and customer/user feedback
 
 
 publications:
     title: Publications
-    intro: O Sal de Aveiro – Glossário das alfaias utilizadas na produção de sal
-      Creating a glossary on salt, using translation support technologies
+    intro: O Sal de Aveiro – Glossário das alfaias utilizadas na produção de sal.
+      Creation a glossary on salt, using translation support technologies
    
 
 skills:
